@@ -1,0 +1,15 @@
+.card-panda{
+    border: 0;
+
+}
+.card-footer-panda{
+    border:0 ;
+    background-color: #ffffff;
+}
+.catagories img{
+    width: 100px;
+}
+.carousel-slid .carousel-itemgit a{
+    background-color: #FDEAE8;
+    border-radius:1em;
+}
